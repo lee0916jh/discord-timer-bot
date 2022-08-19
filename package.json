@@ -1,0 +1,19 @@
+{
+  "name": "discord-timer-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee0916jh/discord-timer-bot.git"
+  },
+  "author": "Jun Hong Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lee0916jh/discord-timer-bot/issues"
+  },
+  "homepage": "https://github.com/lee0916jh/discord-timer-bot#readme"
+}
